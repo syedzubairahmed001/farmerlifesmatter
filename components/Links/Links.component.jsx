@@ -19,7 +19,7 @@ const Links = (props) => {
               </a>
           </li>
           <li>
-              <a href="https://ctt.ac/mc71E" target="_blank">
+              <a href="https://ctt.ac/HJx3i" target="_blank">
                   Tweet with #FarmersProtest
               </a>
           </li>
