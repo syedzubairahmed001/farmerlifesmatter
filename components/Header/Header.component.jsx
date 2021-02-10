@@ -4,7 +4,7 @@ import styles from "./Header.module.css";
 
 const Header = (props) => {
   return <div className={styles.container}>
-      <h1 className={styles.heading}>Farmer Lives Matter</h1>
+      <h1 className={styles.heading}>Farmer Life's Matter</h1>
   </div>;
 };
 
