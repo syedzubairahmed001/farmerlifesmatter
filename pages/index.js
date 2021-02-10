@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Farmer Life's Matter</title>
+        <title>Farmer Lives Matter</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
